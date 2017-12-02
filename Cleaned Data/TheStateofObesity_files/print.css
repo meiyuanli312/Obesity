@@ -1,0 +1,44 @@
+@media print {
+
+	header, footer, div.crumbcake {
+		display: none;
+	}
+	
+	table.statebrief-policytable td p.statebrief-tableblurb
+		{
+		font-size:10pt;
+		line-height:auto;
+		margin:0;
+		padding:0 0 10px 0;
+		}
+	
+	table.statebrief-policytable th:last-child, table.statebrief-policytable td:last-child
+		{
+		display:none
+		}
+	
+	.page-break	{ display: block; page-break-before: always; height:120px; width: 100%; position: relative;}
+
+	.for-print-only	{ display: inline; }
+
+	img.print-header {
+	margin-left: -520px;
+	display: block;
+	-moz-transform: scale(.5);
+    -ms-transform: scale(.5);
+    -o-transform: scale(.5);
+    -webkit-transform: scale(.5);
+    transform: scale(.5);
+	}
+	img.print-header-large {
+	margin-left:-520px;
+    display: block;
+    -moz-transform: scale(.5);
+    -ms-transform: scale(.5);
+    -o-transform: scale(.5);
+    -webkit-transform: scale(.5);
+    transform: scale(.5);
+	}
+
+}
+
