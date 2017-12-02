@@ -1,6 +1,6 @@
 # Visual Analysis on American Obesity 
 
-[**Tableau Public Link**](https://public.tableau.com/profile/meiyuan.li#!/vizhome/VisualAnalysisonAmericanObesity/Analysis?publish=yes)  
+[**Tableau Public Link**](https://public.tableau.com/shared/SS4GBR8JN?:display_count=yes)  
 
 ### Screenshot for final viz
 ![final1](FinalScreenShot/1.png)
@@ -333,4 +333,4 @@ https://www.cde.ca.gov/ls/fa/sf/peguidemidhi.asp
 
 
 ## <a name="8"></a>Showcase video
-[Google Drive Link](http://www.google.com/)
+[Youtube Link](https://youtu.be/u3XaEi39GxY)
