@@ -2,7 +2,7 @@
 
 [**Tableau Public Link**](https://public.tableau.com/profile/meiyuan.li#!/vizhome/VisualAnalysisonAmericanObesity/Analysis?publish=yes)  
 
-###Screenshot for final viz
+### Screenshot for final viz
 ![final1](FinalScreenShot/1.png)
 ![final2](FinalScreenShot/2.png)
 ![final3](FinalScreenShot/3.png)
